@@ -81,19 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Yichen Zhong"
-  avatar           : "sun.jpg"
+  avatar           : "zhong.jpeg"
   bio              : |
-    Assistant Professor <br>
-    Civil Engineering <br>
-    McGill University <br>
+    Senior Undergraduate Student <br>
+    Computer Science & Data Science <br>
+    Univ of Michigan - Ann Arbor <br>
     <br>
-    817 Sherbrooke St. W. <br>
-    Macdonald ENG BLDG 278C <br>
-    Montreal, QC H3A 0C3, Canada <br>
-  location         : "Montreal, Canada"
+  location         : "Ann Arbor, MI, United Sates"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=qi4IEtkAAAAJ"
-  email            : "lijun.sun[at]mcgill.ca"
+  googlescholar    : 
+  email            : "yichenzh[at]umich.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,19 +98,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lijunsun"
+  github           : "Tiger32828"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "lijun-sun-8101a716"
-  orcid            : "https://orcid.org/0000-0001-9488-0712"
+  linkedin         : "https://www.linkedin.com/in/yichen-zhong-60b69120a/"
+  orcid            : 
   pinterest        : 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lijunsun0"
+  twitter          : 
   vine             : 
   weibo            :
   xing             :
